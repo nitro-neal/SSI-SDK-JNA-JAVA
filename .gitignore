@@ -1,0 +1,10 @@
+# Java class files
+*.class
+
+# Shared object files
+*.so
+
+# C header files
+*.h
+
+.idea/
